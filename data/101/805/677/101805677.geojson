@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00105,
-    "geom:area_square_m":7155597.123961,
+    "geom:area_square_m":7155597.123963,
     "geom:bbox":"8.27008484339,56.5387614199,8.33808202601,56.5898930033",
     "geom:latitude":56.55638,
     "geom:longitude":8.301438,
@@ -23,16 +23,13 @@
     "name:ceb_x_preferred":[
         "Lemvig"
     ],
-    "name:chi_x_preferred":[
-        "\u840a\u59c6\u7dad"
+    "name:cym_x_preferred":[
+        "Lemvig"
     ],
     "name:dan_x_preferred":[
         "Lemvig"
     ],
     "name:deu_x_preferred":[
-        "Lemvig"
-    ],
-    "name:dut_x_preferred":[
         "Lemvig"
     ],
     "name:eng_x_preferred":[
@@ -47,12 +44,6 @@
     "name:fra_x_preferred":[
         "Lemvig"
     ],
-    "name:fre_x_preferred":[
-        "Lemvig"
-    ],
-    "name:ger_x_preferred":[
-        "Lemvig"
-    ],
     "name:gla_x_preferred":[
         "Lemvig"
     ],
@@ -60,9 +51,6 @@
         "Lemvig"
     ],
     "name:hun_x_preferred":[
-        "Lemvig"
-    ],
-    "name:ice_x_preferred":[
         "Lemvig"
     ],
     "name:ind_x_preferred":[
@@ -107,16 +95,10 @@
     "name:ron_x_preferred":[
         "Lemvig"
     ],
-    "name:rum_x_preferred":[
-        "Lemvig"
-    ],
     "name:rus_x_preferred":[
         "\u041b\u0435\u043c\u0432\u0438\u0433"
     ],
     "name:slk_x_preferred":[
-        "Lemvig"
-    ],
-    "name:slo_x_preferred":[
         "Lemvig"
     ],
     "name:spa_x_preferred":[
@@ -125,8 +107,8 @@
     "name:swe_x_preferred":[
         "Lemvig"
     ],
-    "name:wel_x_preferred":[
-        "Lemvig"
+    "name:zho_x_preferred":[
+        "\u840a\u59c6\u7dad"
     ],
     "qs:a0":"Danmark",
     "qs:a1":"*Midtjylland",
@@ -176,7 +158,7 @@
         }
     ],
     "wof:id":101805677,
-    "wof:lastmodified":1530296399,
+    "wof:lastmodified":1561778381,
     "wof:name":"Lemvig",
     "wof:parent_id":1159297919,
     "wof:placetype":"locality",
