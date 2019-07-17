@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u064a\u0644\u0647"
     ],
+    "name:ast_x_preferred":[
+        "Vejle"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0430\u0439\u043b\u0435"
     ],
@@ -207,6 +210,9 @@
     "name:tam_x_preferred":[
         "\u0bb5\u0bc6\u0b9c\u0bcd\u0bb2\u0bc7"
     ],
+    "name:tat_x_preferred":[
+        "\u0412\u0430\u0439\u043b\u0435"
+    ],
     "name:tel_x_preferred":[
         "\u0c35\u0c46\u0c39\u0c46\u0c32\u0c4d"
     ],
@@ -226,6 +232,9 @@
         "Vejle"
     ],
     "name:vol_x_preferred":[
+        "Vejle"
+    ],
+    "name:war_x_preferred":[
         "Vejle"
     ],
     "name:yue_x_preferred":[
@@ -379,7 +388,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1561778381,
+    "wof:lastmodified":1563325035,
     "wof:name":"Vejle",
     "wof:parent_id":1159297913,
     "wof:placetype":"locality",
