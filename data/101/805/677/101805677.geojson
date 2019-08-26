@@ -13,10 +13,13 @@
     "iso:country":"DN",
     "lbl:latitude":56.548904,
     "lbl:longitude":8.315604,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.548904,
     "mps:longitude":8.315604,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u0645\u0628\u064a\u0643"
     ],
@@ -141,7 +144,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.533333,
     "wd:longitude":8.3,
@@ -156,10 +159,12 @@
     "wof:concordances":{
         "gn:id":2617812,
         "gp:id":555173,
-        "qs:id":901087,
         "qs_pg:id":897851,
         "wd:id":"Q502632",
         "wk:page":"Lemvig"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":901087
     },
     "wof:country":"DN",
     "wof:geomhash":"4a4525efaadcfd2cdb1b867f1054ea74",
@@ -173,7 +178,7 @@
         }
     ],
     "wof:id":101805677,
-    "wof:lastmodified":1563325034,
+    "wof:lastmodified":1566581583,
     "wof:name":"Lemvig",
     "wof:parent_id":1159297919,
     "wof:placetype":"locality",

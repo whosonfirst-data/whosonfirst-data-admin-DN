@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13945327.677461,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.387263,55.397013,10.387263,55.397013",
     "geom:latitude":55.397013,
     "geom:longitude":10.387263,
     "gn:id":"",
     "iso:country":"DN",
+    "lbl:bbox":"10.382263,55.392013,10.392263,55.402013",
     "lbl:latitude":55.397013,
     "lbl:longitude":10.387263,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.402928,
     "mps:longitude":10.388388,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Odense Central"
-    ],
-    "name:unk_x_variant":[
-        "Odense C"
     ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_id":0,
@@ -65,18 +64,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682575,
         102191581,
         1159297847,
         85633121,
-        101749151
+        101749151,
+        85682575
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24875619,
-        "qs:id":977344,
         "qs_pg:id":977344
     },
     "wof:country":"DN",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1531936658,
+    "wof:lastmodified":1566581581,
     "wof:name":"Odense C",
     "wof:parent_id":101749151,
     "wof:placetype":"neighbourhood",

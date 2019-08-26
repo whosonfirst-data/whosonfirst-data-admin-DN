@@ -13,6 +13,8 @@
     "iso:country":"DN",
     "lbl:latitude":55.694935,
     "lbl:longitude":9.539334,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":55.694935,
     "mps:longitude":9.539334,
     "mz:hierarchy_label":1,
@@ -351,13 +353,12 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":8.0,
     "wd:latitude":55.708333,
     "wd:longitude":9.533333,
     "wd:wordcount":2799,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191581,
         1159297913,
@@ -369,7 +370,6 @@
         "fct:id":"07c59244-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2610613,
         "gp:id":558544,
-        "qs:id":1091757,
         "qs_pg:id":1091757,
         "wd:id":"Q27116"
     },
@@ -388,7 +388,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1563325035,
+    "wof:lastmodified":1566581583,
     "wof:name":"Vejle",
     "wof:parent_id":1159297913,
     "wof:placetype":"locality",

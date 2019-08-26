@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12266364.290238,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.477015,55.617894,8.477015,55.617894",
     "geom:latitude":55.617894,
     "geom:longitude":8.477015,
     "gn:latitude":55.61667,
     "gn:longitude":8.5,
     "iso:country":"DN",
+    "lbl:bbox":"8.472015,55.612894,8.482015,55.622894",
     "lbl:latitude":55.617894,
     "lbl:longitude":8.477015,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.619048,
     "mps:longitude":8.479584,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Sonder Varde"
     ],
     "name:dan_x_preferred":[
-        "S\u00f8nder Varde"
-    ],
-    "name:unk_x_variant":[
         "S\u00f8nder Varde"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -64,19 +63,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682575,
         102191581,
         1159297925,
         85633121,
-        101805511
+        101805511,
+        85682575
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2612934,
         "gp:id":557401,
-        "qs:id":402367,
         "qs_pg:id":402367
     },
     "wof:country":"DN",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1531861467,
+    "wof:lastmodified":1566581582,
     "wof:name":"S\u00f8nder Varde",
     "wof:parent_id":101805511,
     "wof:placetype":"neighbourhood",
