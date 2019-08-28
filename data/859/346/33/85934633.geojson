@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16061499.1194,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.020972,56.47175,10.020972,56.47175",
     "geom:latitude":56.47175,
     "geom:longitude":10.020972,
     "gn:id":"",
     "iso:country":"DN",
+    "lbl:bbox":"10.015972,56.46675,10.025972,56.47675",
     "lbl:latitude":56.47175,
     "lbl:longitude":10.020972,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.471194,
     "mps:longitude":10.009701,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Randers North West"
-    ],
-    "name:unk_x_variant":[
-        "Randers NV"
     ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_id":0,
@@ -65,18 +64,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682597,
         102191581,
         1159297903,
         85633121,
-        101749161
+        101749161,
+        85682597
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55965894,
-        "qs:id":383676,
         "qs_pg:id":383676
     },
     "wof:country":"DN",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1531939791,
+    "wof:lastmodified":1566581581,
     "wof:name":"Randers NV",
     "wof:parent_id":101749161,
     "wof:placetype":"neighbourhood",

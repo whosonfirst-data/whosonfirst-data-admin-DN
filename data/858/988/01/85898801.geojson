@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":23184588.920171,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.798844,55.315765,10.798844,55.315765",
     "geom:latitude":55.315765,
     "geom:longitude":10.798844,
     "iso:country":"DN",
+    "lbl:bbox":"10.793844,55.310765,10.803844,55.320765",
     "lbl:latitude":55.315765,
     "lbl:longitude":10.798844,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.314736,
     "mps:longitude":10.804273,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:dan_x_preferred":[
-        "Nyborg Strand"
-    ],
-    "name:unk_x_variant":[
         "Nyborg Strand"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -58,19 +57,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682575,
         102191581,
         1159297759,
         85633121,
-        101818223
+        101818223,
+        85682575
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2616010,
         "gp:id":555989,
-        "qs:id":240997,
         "qs_pg:id":240997
     },
     "wof:country":"DN",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1531932110,
+    "wof:lastmodified":1566581582,
     "wof:name":"Nyborg Strand",
     "wof:parent_id":101818223,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16472316.137721,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.274906,55.425398,10.274906,55.425398",
     "geom:latitude":55.425398,
     "geom:longitude":10.274906,
     "gn:id":"",
     "iso:country":"DN",
+    "lbl:bbox":"10.269906,55.420398,10.279906,55.430398",
     "lbl:latitude":55.425398,
     "lbl:longitude":10.274906,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.426445,
     "mps:longitude":10.276115,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Odense North West"
-    ],
-    "name:unk_x_variant":[
-        "Odense NV"
     ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_id":0,
@@ -65,18 +64,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682575,
         102191581,
         1159297847,
         85633121,
-        101749151
+        101749151,
+        85682575
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24875623,
-        "qs:id":467163,
         "qs_pg:id":467163
     },
     "wof:country":"DN",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1531936661,
+    "wof:lastmodified":1566581581,
     "wof:name":"Odense NV",
     "wof:parent_id":101749151,
     "wof:placetype":"neighbourhood",
