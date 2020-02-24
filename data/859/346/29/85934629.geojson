@@ -81,6 +81,10 @@
         "qs_pg:id":1090268
     },
     "wof:country":"DN",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"f5d8e03be7f14af3a281cb0a2fba029d",
     "wof:hierarchy":[
         {
@@ -96,7 +100,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566581581,
+    "wof:lastmodified":1582332404,
     "wof:name":"Randers NO",
     "wof:parent_id":101749161,
     "wof:placetype":"neighbourhood",

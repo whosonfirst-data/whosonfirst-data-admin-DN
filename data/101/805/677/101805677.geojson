@@ -167,6 +167,9 @@
         "qs_pg:id":901087
     },
     "wof:country":"DN",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4a4525efaadcfd2cdb1b867f1054ea74",
     "wof:hierarchy":[
         {
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":101805677,
-    "wof:lastmodified":1566581583,
+    "wof:lastmodified":1582332404,
     "wof:name":"Lemvig",
     "wof:parent_id":1159297919,
     "wof:placetype":"locality",

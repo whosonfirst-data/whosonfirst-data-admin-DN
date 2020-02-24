@@ -122,6 +122,9 @@
         "wk:page":"Ebeltoft"
     },
     "wof:country":"DN",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c8277110f28347b5f8fbbc7d43836d1a",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101817291,
-    "wof:lastmodified":1566581582,
+    "wof:lastmodified":1582332404,
     "wof:name":"Ebeltoft",
     "wof:parent_id":1159297809,
     "wof:placetype":"locality",

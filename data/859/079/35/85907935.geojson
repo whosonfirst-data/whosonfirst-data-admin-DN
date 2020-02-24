@@ -78,6 +78,10 @@
         "qs_pg:id":467163
     },
     "wof:country":"DN",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"d818998dd0129dbd3966da4f7bd82a69",
     "wof:hierarchy":[
         {
@@ -93,7 +97,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566581581,
+    "wof:lastmodified":1582332403,
     "wof:name":"Odense NV",
     "wof:parent_id":101749151,
     "wof:placetype":"neighbourhood",
