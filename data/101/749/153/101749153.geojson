@@ -374,6 +374,9 @@
         "wd:id":"Q27116"
     },
     "wof:country":"DN",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ea15a31a0552c426ff0728b04e454a83",
     "wof:hierarchy":[
         {
@@ -388,7 +391,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566581583,
+    "wof:lastmodified":1582332404,
     "wof:name":"Vejle",
     "wof:parent_id":1159297913,
     "wof:placetype":"locality",

@@ -71,6 +71,10 @@
         "qs_pg:id":1263575
     },
     "wof:country":"DN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"900ae4e8148360216a153687bd7b707a",
     "wof:hierarchy":[
         {
@@ -86,7 +90,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566581581,
+    "wof:lastmodified":1582332404,
     "wof:name":"Odense M",
     "wof:parent_id":101749151,
     "wof:placetype":"neighbourhood",
